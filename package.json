@@ -14,6 +14,10 @@
     "notifications",
     "node"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nemo/taplytics-node"
+  },
   "author": "Nima Gardideh <nima@halfmoon.ws>",
   "license": "MIT",
   "dependencies": {

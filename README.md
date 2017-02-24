@@ -26,3 +26,6 @@ client.push.get()
 .then((pushes) => console.log(pushes))
 .catch((err) => console.error(err));
 ```
+
+## License
+MIT
