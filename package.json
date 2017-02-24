@@ -1,0 +1,22 @@
+{
+  "name": "taplytics-node",
+  "version": "0.1.0",
+  "description": "Taplytics Node SDK (unofficial)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "taplytics",
+    "a/b",
+    "testing",
+    "push",
+    "notifications",
+    "node"
+  ],
+  "author": "Nima Gardideh <nima@halfmoon.ws>",
+  "license": "MIT",
+  "dependencies": {
+    "node-rest-client": "^2.5.0"
+  }
+}
